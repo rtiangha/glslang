@@ -1,0 +1,6 @@
+[submodule "External/spirv-tools"]
+	path = External/spirv-tools
+	url = https://github.com/rtiangha/SPIRV-Tools
+[submodule "External/googletest"]
+	path = External/googletest
+	url = https://github.com/google/googletest
